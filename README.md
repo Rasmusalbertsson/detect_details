@@ -47,9 +47,6 @@ License:
 ----------------------
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Support:
-----------------------
-For support, please open an issue on the GitHub repository or contact support@yourdomain.com.
 
 =========================================================================================================
 This README.md is structured to provide clear, concise instructions on how to install, run, and contribute to your application. 
